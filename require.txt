@@ -1,4 +1,5 @@
 streamlit
-pymupdf
 scikit-learn
-nltk
+pandas
+numpy
+PyMuPDF
